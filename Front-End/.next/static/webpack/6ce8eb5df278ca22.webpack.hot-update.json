@@ -1,0 +1,1 @@
+{"c":["app/layout","app/blogs/[post]/page","webpack"],"r":[],"m":["(app-client)/./app/blogs/[post]/page.tsx","(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2Fgoinfre%2Fasabbar%2Fbuild%2Fmedium_2_0%2Fapp%2Fblogs%2F%5Bpost%5D%2Fpage.tsx&server=false!","(app-client)/./node_modules/next/navigation.js"]}
